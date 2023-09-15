@@ -8,6 +8,7 @@ Parrot.java:        How to read/write to Standard Input/Output stream.
 Enum.java:          How to use variable with type *enum*    
 JMath.java:         How to use (static) java.lang.Math package.
 Tuple.java:         How to create class, abstract class and syntax about inherence.
+character.java:     Some methods in java.lang.Character.
 
 #Hopefully these examples will help you learn the most important things in java!     
 #Have Fun!    
