@@ -10,6 +10,7 @@ JMath.java:         How to use (static) java.lang.Math package.
 Tuple.java:         How to create class, abstract class and syntax about inherence.
 character.java:     Some methods in java.lang.Character.
 Numeric.java:       See how to convert from numeric type to String and the opposite.
+string.java:        See some tricks of String.
 
 #Hopefully these examples will help you learn the most important things in java!     
 #Have Fun!    
