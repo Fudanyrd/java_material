@@ -1,7 +1,7 @@
 
 public class Tuple {
     public static abstract class tuple{
-        abstract void output();
+        abstract public void output();
     }; 
 
     public static class dubTuple extends tuple{
@@ -14,7 +14,7 @@ public class Tuple {
         dubTuple(){
             this.x = this.y = 0;
         }
-        void output() {
+        public void output() {
             System.out.printf("(%d, %d)", this.x,this.y);
         }
 
@@ -32,7 +32,7 @@ public class Tuple {
             this(0,0,0);
         }
 
-        void output(){
+        public final void output(){
             System.out.printf("(%d, %d, %d)",this.x,this.y,this.z);
         }
     }
