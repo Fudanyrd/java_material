@@ -13,6 +13,7 @@ Numeric.java:       See how to convert from numeric type to String and the oppos
 string.java:        See some tricks of String.    
 vector.java:        About java.util.Vector.     
 pair.java:          Create and use template classes.    
+lst.java:           List Basics.    
 
 #Hopefully these examples will help you learn the most important things in java!     
 #Have Fun!    
