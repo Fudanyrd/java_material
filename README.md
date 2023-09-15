@@ -5,3 +5,7 @@
 
 File.java:          How to read from and print to a file.    
 Parrot.java:        How to read/write to Standard Input/Output stream.    
+Enum.java:          How to use variable with type *enum*    
+
+#Hopefully these examples will help you learn the most important things in java!     
+#Have Fun!    
