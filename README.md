@@ -12,6 +12,7 @@ character.java:     Some methods in java.lang.Character.
 Numeric.java:       See how to convert from numeric type to String and the opposite.    
 string.java:        See some tricks of String.    
 vector.java:        About java.util.Vector.     
+pair.java:          Create and use template classes.    
 
 #Hopefully these examples will help you learn the most important things in java!     
 #Have Fun!    
