@@ -14,6 +14,7 @@ string.java:        See some tricks of String.
 vector.java:        About java.util.Vector.     
 pair.java:          Create and use template classes.    
 lst.java:           List Basics.    
+students.java:      How to compare your own classes and sort the objects.
 
 #Hopefully these examples will help you learn the most important things in java!     
 #Have Fun!    
